@@ -17,7 +17,7 @@ Calendar app to develop (first version)
  
 ### Done
 -Widok miesięczny kalendarza: Przeglądaj wydarzenia zaplanowane na dany miesiąc.
-![Logo mojego projektu](images/2024-09-29_18h29_30.png)
+![podgląd](images/2024-09-29_18h29_30.png)
  
 ### Todo
 -Szczegóły wydarzenia: Po kliknięciu na konkretne wydarzenie, użytkownik powinien móc zobaczyć jego szczegółowe informacje.
