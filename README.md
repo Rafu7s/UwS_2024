@@ -1,6 +1,6 @@
 # Description
 Calendar app to develop (first version)
-<br><br>
+<br>
 
 # Used:
 -pycharm 2024.1 <br>
@@ -17,8 +17,7 @@ Calendar app to develop (first version)
  
 ### Done
 -Widok miesięczny kalendarza: Przeglądaj wydarzenia zaplanowane na dany miesiąc.
-
- <br> 
+![Logo mojego projektu](images/2024-09-29_18h29_30.png)
  
 ### Todo
 -Szczegóły wydarzenia: Po kliknięciu na konkretne wydarzenie, użytkownik powinien móc zobaczyć jego szczegółowe informacje.
