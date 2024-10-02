@@ -3,16 +3,20 @@ from flask import Flask, render_template
 import requests
 from flask import Flask, jsonify
 import datetime
-
+from dotenv import load_dotenv
+import os
 
 API_URL = "https://rekrutacja.teamwsuws.pl/events"
-API_KEY = "967927582e7ee59cb4a7d73a83cd827b"
+load_dotenv()
+API_KEY = os.getenv("API_KEY")
+
 
 app = Flask(__name__)
 
 def fetch_events():
     url = 'https://rekrutacja.teamwsuws.pl/events'
-    headers = {'api-key': '967927582e7ee59cb4a7d73a83cd827b'}
+    headers = {"api-key": f"{API_KEY}"
+  }
     response = requests.get(url, headers=headers)
     if response.status_code == 200:
         return response.json()
@@ -33,7 +37,7 @@ def get_event_details(event_id, api_key):
 
   url = f"https://rekrutacja.teamwsuws.pl/events/8"
   headers = {
-    "api-key": '967927582e7ee59cb4a7d73a83cd827b'
+    "api-key": f"{API_KEY}"
   }
 
   response = requests.get(url, headers=headers)
@@ -45,7 +49,7 @@ def get_event_details(event_id, api_key):
     return None
 
 event_id = 8
-api_key = "967927582e7ee59cb4a7d73a83cd827b"
+api_key = f"{API_KEY}"
 event_data = get_event_details(event_id, api_key)
 if event_data:
   print(event_data)
