@@ -1,8 +1,13 @@
 import requests
+import os
+from dotenv import load_dotenv
+
+load_dotenv()
+API_KEY = os.getenv("API_KEY")
 
 def fetch_events():
     url = "https://rekrutacja.teamwsuws.pl/events/"
-    headers = {"api-key": "967927582e7ee59cb4a7d73a83cd827b"}
+    headers = {"api-key": f"{API_KEY}"}
 
     try:
         response = requests.get(url, headers=headers)
