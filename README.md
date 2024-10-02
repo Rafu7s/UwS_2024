@@ -14,7 +14,7 @@ Calendar app to develop (first version)
 2. open: http://127.0.0.1:5000
 3. enjoy :)
 
-   *active api key required to receive events
+   *active api key required to receive events via API, but they can be taken from file 'events.json' as well.
  <br>
  
 ### Done
