@@ -6,7 +6,7 @@ Calendar app to develop (first version)
 -pycharm 2024.1 <br>
 -Git <br>
 -API from UWS (Uniweristy from Siedlce) <br>
--modules: pip, request, flask <br>
+-modules: pip, request, flask, dotenv <br>
 -Chrome
 
 # Setup
