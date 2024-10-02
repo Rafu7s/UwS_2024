@@ -1,0 +1,160 @@
+[
+    {
+        "id": 3,
+        "name": "Jubileuszowy Piknik Naukowy z Uniwersytetem w Siedlcach\t",
+        "start_time": "2024-10-02T10:00:00",
+        "duration": 2,
+        "image_url": "/media/442435186_947649987362224_3464617144294814090_n.webp",
+        "short_description": "Jubileuszowy Piknik Naukowy UwS to dzień pełen atrakcji dla dzieci i dorosłych, z warsztatami, grami i występami.",
+        "tags": [
+            {
+                "id": 1,
+                "name": "piknik"
+            },
+            {
+                "id": 2,
+                "name": "popularyzacja nauki"
+            },
+            {
+                "id": 3,
+                "name": "uws"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Dyktando Siedleckie",
+        "start_time": "2024-10-12T13:00:00",
+        "duration": 1,
+        "image_url": "/media/416024868_862709355856288_6614851853037264048_n.jpg",
+        "short_description": "Dyktando Siedleckie to prestiżowy konkurs ortograficzny z nagrodami, w którym mogą wziąć udział miłośnicy języka polskiego.",
+        "tags": [
+            {
+                "id": 2,
+                "name": "popularyzacja nauki"
+            },
+            {
+                "id": 3,
+                "name": "uws"
+            },
+            {
+                "id": 4,
+                "name": "dyktando"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Konfernecja naukowa management 2024",
+        "start_time": "2024-09-23T14:00:00",
+        "duration": 2,
+        "image_url": "/media/460653127_1044963087630913_222372539648366820_n.jpg",
+        "short_description": "XVII Międzynarodowa Konferencja MANAGEMENT 2024 to wydarzenie o rozwoju organizacji, pełne wykładów i inspirujących dyskusji.",
+        "tags": [
+            {
+                "id": 5,
+                "name": "nauka"
+            },
+            {
+                "id": 6,
+                "name": "Konferencja"
+            },
+            {
+                "id": 7,
+                "name": "Instytut Zarządzania i Jakości"
+            },
+            {
+                "id": 8,
+                "name": "Wydział Nauk Społecznych"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Święto Nauki na Uniwersytecie w Siedlcach",
+        "start_time": "2024-11-08T10:00:00",
+        "duration": 1,
+        "image_url": "/media/459632507_1036235555170333_5518796494855165679_n.jpg",
+        "short_description": "Święto Nauki na Uniwersytecie w Siedlcach oferuje prelekcje, warsztaty i pokazy naukowe z udziałem badaczy i studentów.",
+        "tags": [
+            {
+                "id": 1,
+                "name": "piknik"
+            },
+            {
+                "id": 2,
+                "name": "popularyzacja nauki"
+            },
+            {
+                "id": 3,
+                "name": "uws"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Uniwersytecki Dzień Sportu",
+        "start_time": "2024-10-21T10:00:00",
+        "duration": 1,
+        "image_url": "/media/46065643_1044963087630913_2223725396483668920_n.png",
+        "short_description": "Uniwersytecki Dzień Sportu to sportowe zawody i atrakcje dla uczestników w każdym wieku, zakończone rozdaniem medali.",
+        "tags": [
+            {
+                "id": 3,
+                "name": "uws"
+            },
+            {
+                "id": 9,
+                "name": "sport"
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "name": "2nd Conference on Intelligent Systems and Information Technologies",
+        "start_time": "2024-09-23T10:00:00",
+        "duration": 2,
+        "image_url": "/media/438092851_983095920486000_3154076603965634287_n.jpg",
+        "short_description": "Konferencja Intelligent Systems and Information Technologies to spotkanie naukowców i praktyków, skupione na logice i sztucznej inteligencji.",
+        "tags": [
+            {
+                "id": 5,
+                "name": "nauka"
+            },
+            {
+                "id": 6,
+                "name": "Konferencja"
+            },
+            {
+                "id": 7,
+                "name": "Instytut Zarządzania i Jakości"
+            },
+            {
+                "id": 8,
+                "name": "Wydział Nauk Społecznych"
+            },
+            {
+                "id": 10,
+                "name": "English"
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "name": "Inauguracja Roku Akademickiego 2024/2025",
+        "start_time": "2024-10-01T11:00:00",
+        "duration": 1,
+        "image_url": "/media/460653127_10449623123123123123_22237258366892_n.jpg",
+        "short_description": "Uroczysta Inauguracja Roku Akademickiego 2024/2025 to oficjalne rozpoczęcie nowego roku akademickiego z wykładami i wręczeniem wyróżnień.",
+        "tags": [
+            {
+                "id": 3,
+                "name": "uws"
+            },
+            {
+                "id": 11,
+                "name": "inauguracja"
+            }
+        ]
+    }
+]

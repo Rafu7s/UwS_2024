@@ -1,6 +1,7 @@
 import requests
 import os
 from dotenv import load_dotenv
+import json
 
 load_dotenv()
 API_KEY = os.getenv("API_KEY")
@@ -15,6 +16,9 @@ def fetch_events():
 
         data = response.json()
         if data:
+            with open('events.json', 'w', encoding='utf-8') as file:
+                json.dump(data, file, ensure_ascii=False, indent=4)
+            print("Dane zostały zapisane do pliku events.json")
             for event in data:
                 print(event)
         else:
