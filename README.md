@@ -13,6 +13,8 @@ Calendar app to develop (first version)
 1. run app.py file
 2. open: http://127.0.0.1:5000
 3. enjoy :)
+
+   *active api key required to receive events
  <br>
  
 ### Done
