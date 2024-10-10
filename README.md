@@ -23,3 +23,9 @@ Calendar app to develop (first version)
  
 ### Todo
 -Szczegóły wydarzenia: Po kliknięciu na konkretne wydarzenie, użytkownik powinien móc zobaczyć jego szczegółowe informacje.
+
+<br>
+
+#### Notes <br>
+ApiKeyWalidation.py - checking connection with API  <br>
+EventDetails.py & EventsListDownload.py - to download and save the data from API locally
